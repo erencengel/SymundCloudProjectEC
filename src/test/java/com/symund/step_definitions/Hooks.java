@@ -11,7 +11,7 @@ import org.openqa.selenium.TakesScreenshot;
 import java.util.concurrent.TimeUnit;
 
 public class Hooks {
-
+    //erencengel
     @Before
     public void setUp(){
         Driver.get().manage().window().maximize();
